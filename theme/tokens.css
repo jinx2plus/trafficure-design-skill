@@ -1,0 +1,42 @@
+/* Independent, proposed palette. NOT official Lepton Software CSS. 2026-11-06 */
+:root {
+  color-scheme: light;
+  --color-ink: #101D2C;
+  --color-ink-muted: #546373;
+  --color-canvas: #F6F8FA;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #EFF3F6;
+  --color-line: #DDE4EA;
+  --color-night: #0A1626;
+  --color-night-panel: #13263A;
+  --color-night-line: #304357;
+  --color-night-ink: #F4F8FC;
+  --color-night-muted: #B4C1CF;
+  --color-accent: #0F766E;
+  --color-accent-hover: #0A554F;
+  --color-info: #3276EA;
+  --color-warn: #B45309;
+  --color-danger: #CF384B;
+  --color-road-clear: #57C98B;
+  --color-road-slow: #F1AE4A;
+  --color-road-severe: #F16B72;
+  --font-ui: Inter, Pretendard, "Noto Sans KR", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: ui-monospace, "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+  --shadow-card: 0 8px 32px rgba(9, 24, 42, .055);
+  --focus-ring: 0 0 0 3px rgba(50, 118, 234, .35);
+  --content-width: 1220px;
+}
